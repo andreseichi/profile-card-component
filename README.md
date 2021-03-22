@@ -33,7 +33,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
+- Solution URL: [My Solution](https://www.frontendmentor.io/solutions/html-with-preprocessor-sass-ZqD7liVhM)
 - Live Site URL: [Github Page](https://andreseichi.github.io/profile-card-component/)
 
 ## My process
